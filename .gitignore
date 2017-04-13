@@ -1,0 +1,6 @@
+#compiled python code
+*.pyc
+
+#ipynb checkpoints
+.ipynb_checkpoints
+
