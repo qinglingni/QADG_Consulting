@@ -24,13 +24,15 @@ After analyzing turnstile data for New York City Subway stations over the past t
 
 The Court Square-Queensboro area of Queens has seen a 10% foot traffic increase over the past two years.  The area has also seen a large real-estate boom over the last three years with prices increasing over 30% (**source, NY Daily News**), a trend that is expected to continue through 2018.  As one resident said, “It’s definitely become the new ‘it’ neighborhood for Queens.  Artists and families know they get more for their dollar than Brooklyn and Manhattan. It’s still gritty and cool with great value” (**source, NY Daily News).  The triangular area between the Queens Plaza, Queensboro, and Court Square subway stations would thus be an ideal location for both a new Athletic Gym of NYC studio and a series of Eclectic Food Trucks targeting both the residential parts of the neighborhood and the commercial area, that has also seen growth over the last two years.
 
-
+![Graph](./LIC_data.png)
+![Map](./LICmap.png)
 
 **West Midwood – Brooklyn**
 
 The West Midwood neighborhood of Brooklyn is a planned community located between Flatbush and Coney Island in the central part of the borough.  Foot traffic in the area has increased by 13% over the past two years according to MTA Turnstile data, confirming the neighborhood’s growth and in line with the growth of Brooklyn as a whole, which has seen a 21% increase in businesses between 2003-2015 (highest in NYC) and a 28% growth in employment over that same time period (**source, Economic Snapshot of Brooklyn, Brooklyn Comptroller**).  West Midwood’s ideal location, just South of the Brooklyn Business District and near Brooklyn College, has made it ideal for the residential growth that we are seeing through the increased foot traffic through the subway system.  A new Athletic Gym facility would be ideal between the two stations as would food trucks during the morning and afternoon commutes.
 
-
+![Graph](./Midwood_data.png)
+![Map](./aveHJmap.png)
 
 
 
@@ -38,7 +40,8 @@ The West Midwood neighborhood of Brooklyn is a planned community located between
 
 The Corona neighborhood in Queens, bordering Flushing and close to the USTA Tennis Center and Citi Field, has also seen a significant increase in foot traffic.  The area between the 103 St and 111 St stations has seen an increase of 11% over the last two years according to MTA turnstile data.  Housing data also supports this trend with median sales price and number of sales in the neighborhood almost doubling over the past 5 years (**source, Trulia**.  The Queens economy has continued to flourish while NYC has slowed a bit with some predicting that Queens will become the next Brooklyn.  Against this backdrop, the Corona area is ideal for the expansion of an Athletic Gym studio, and could even be a diamond in the rough for this community.  It remains to be seen whether this location will be good for Food Truck expansion given that it’s more residential and further away from business activity.
 
-
+![Graph](./Corana_Data.png)
+![Map](./CoronaMap.png)
 
 **Conclusions/Next Steps** 
 
